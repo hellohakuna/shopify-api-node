@@ -1,7 +1,7 @@
 {
-  "name": "@shopify/shopify-api",
+  "name": "@hellohakuna/shopify-api",
   "version": "5.0.1",
-  "description": "Shopify API Library for Node - accelerate development with support for authentication, graphql proxy, webhooks",
+  "description": "Tweaked by Hakuna Shopify API Library for Node - accelerate development with support for authentication, graphql proxy, webhooks",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "prettier": "@shopify/prettier-config",
@@ -50,12 +50,7 @@
     "@types/supertest": "^2.0.10",
     "cookies": "^0.8.0",
     "jsonwebtoken": "^8.5.1",
-    "mongodb": "^4.5.0",
-    "mysql2": "^2.3.3",
     "node-fetch": "^2.6.1",
-    "pg": "^8.7.3",
-    "redis": "^4.1.0",
-    "sqlite3": "^5.0.8",
     "tslib": "^2.0.3",
     "uuid": "^8.3.1"
   },
